@@ -1,3 +1,11 @@
+.background {
+    background-color: #FFFBF0;
+}
+
+.title {
+    color: #363958;
+}
+
 .btn-color {
     background-color:  #A4BC46;
     color: white;
